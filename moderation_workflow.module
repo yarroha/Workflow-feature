@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Moderation workflow feature.
+ */
+
+include_once('moderation_workflow.features.inc');
